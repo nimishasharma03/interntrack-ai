@@ -1,0 +1,39 @@
+# AI Career Copilot
+
+AI Career Copilot is a student-focused internship tracking platform that helps users manage applications, follow-ups, interview preparation, and application analytics.
+
+## Problem Statement
+
+Students often apply to internships across multiple platforms such as LinkedIn, Wellfound, referrals, and company career portals. Managing application status, follow-ups, and interview preparation becomes difficult.
+
+AI Career Copilot centralizes the entire internship search process into one dashboard.
+
+## Features
+
+- Track internship applications
+- Update application status
+- Delete applications
+- Search applications
+- Follow-up reminders
+- Follow-up email generator
+- Interview question generator
+- Application dashboard and analytics
+- Application health score
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+
+## Future Enhancements
+
+- OpenAI integration
+- Resume analysis
+- AI-powered job recommendations
+- Interview preparation assistant
+
+## Author
+
+Nimisha Sharma
