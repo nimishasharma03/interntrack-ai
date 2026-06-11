@@ -1,4 +1,4 @@
-# InternTrack AI – AI Career Copilot
+# InternTrack AI 
 
 AI-powered internship tracking platform designed to help students manage applications, organize follow-ups, prepare for interviews, and gain insights from their internship journey.
 
