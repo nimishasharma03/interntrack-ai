@@ -60,8 +60,9 @@ InternTrack AI centralizes the internship search process into a single dashboard
 ### Application Management
 ![Management](screenshots/appli.png)
 
-### AI Email Generator
+### AI Email & Interview Questions Generator 
 ![Email Generator](screenshots/mail.png)
+
 ## Tech Stack
 
 Frontend
