@@ -1,4 +1,6 @@
-# InternTrack AI 
+# InternTrack AI
+
+🚀 Live Demo: https://your-streamlit-link.streamlit.app
 
 AI-powered internship tracking platform designed to help students manage applications, organize follow-ups, prepare for interviews, and gain insights from their internship journey.
 
