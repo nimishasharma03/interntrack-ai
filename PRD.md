@@ -2,7 +2,7 @@
 
 ## Product Name
 
-Interntrack AI
+InternTrack AI
 
 ## Problem
 
