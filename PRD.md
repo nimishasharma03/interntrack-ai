@@ -2,7 +2,7 @@
 
 ## Product Name
 
-AI Career Copilot
+Interntrack AI
 
 ## Problem
 
